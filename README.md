@@ -1,15 +1,15 @@
-# Hi there, I'm Lenar Sitakar *Lenar FX Lab* ✨
+# Hi there, I'm Leonardo Sitakar  *Lenar FX Lab* ✨
 
 Welcome to my GitHub space — where logic meets creativity, and every line of code tells a story.
 
 ## Who am I?
 
-I’m a passionate trader, strategist, and Pine Script creator based in Kajang, Malaysia.  
+I’m a passionate trader, strategist, and Pine Script creator based in JUMA RAMBA, INDONESIA.  
 Building innovative tools for smarter trading — crafted with precision, tested with love.
 
 ## Featured Project
 
-*LENAR RATNA HYBRID REVERSAL*  
+*LENAR FX*  
 An intelligent Pine Script strategy combining Bollinger Bands, RSI, Volume Profile,  
 and precision-based entries — optimized for market reversals.
 
