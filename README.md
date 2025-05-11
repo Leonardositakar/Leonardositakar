@@ -1,4 +1,4 @@
-# Hi there, I'm Lenar Sitakar aka *Lenar FX Lab* ✨
+# Hi there, I'm Lenar Sitakar *Lenar FX Lab* ✨
 
 Welcome to my GitHub space — where logic meets creativity, and every line of code tells a story.
 
@@ -19,7 +19,7 @@ and precision-based entries — optimized for market reversals.
 - Building advanced TradingView indicators
 - Studying volume-price dynamics
 - Collaborating with traders around the world
-- Automating trade logic with Pine Script v5
+- Automating trade logic with Pine Script v6
 
 ## Get in Touch
 - Telegram: @LeonardoSitakar
