@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Lenar Sitakar aka *Lenar FX Lab* ✨
 
-<!--
-**Leonardositakar/Leonardositakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space — where logic meets creativity, and every line of code tells a story.
 
-Here are some ideas to get you started:
+## Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate trader, strategist, and Pine Script creator based in Kajang, Malaysia.  
+Building innovative tools for smarter trading — crafted with precision, tested with love.
+
+## Featured Project
+
+*LENAR RATNA HYBRID REVERSAL*  
+An intelligent Pine Script strategy combining Bollinger Bands, RSI, Volume Profile,  
+and precision-based entries — optimized for market reversals.
+
+> “The market speaks in patterns. I just help decode them.” — Lenar
+
+## What I'm Doing Now:
+- Building advanced TradingView indicators
+- Studying volume-price dynamics
+- Collaborating with traders around the world
+- Automating trade logic with Pine Script v5
+
+## Get in Touch
+- Telegram: @LeonardoSitakar
+- GitHub: [github.com/Leonardositakar](https://github.com/Leonardositakar)
+- Status: Always coding with love & coffee
+
+---
+
+© 2025 Lenar FX Lab — Built with love, protected by the MIT License
