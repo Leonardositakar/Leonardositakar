@@ -1,4 +1,4 @@
-# Hi there, I'm Leonardo Sitakar  *Lenar FX Lab* ✨
+# Hi there, I'm Leonardo Sitakar  *Lenar FX Lab*
 
 Welcome to my GitHub space — where logic meets creativity, and every line of code tells a story.
 
